@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap Motion2.3", "Leap Motion2.3.csproj", "{D4420AC0-7ECE-07CF-D5E4-2EBFCB07FA2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap Motion2.3.Editor", "Leap Motion2.3.Editor.csproj", "{B8B46F90-332D-72A0-7570-F832F634B722}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4420AC0-7ECE-07CF-D5E4-2EBFCB07FA2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4420AC0-7ECE-07CF-D5E4-2EBFCB07FA2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4420AC0-7ECE-07CF-D5E4-2EBFCB07FA2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4420AC0-7ECE-07CF-D5E4-2EBFCB07FA2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8B46F90-332D-72A0-7570-F832F634B722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B46F90-332D-72A0-7570-F832F634B722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B46F90-332D-72A0-7570-F832F634B722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B46F90-332D-72A0-7570-F832F634B722}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
